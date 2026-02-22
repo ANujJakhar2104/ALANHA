@@ -1,0 +1,24 @@
+{
+    "Reconnaissance": [
+      "Port Scanning & Service Enumeration using nmap"
+    ],
+    "Exploitation": [
+      "Password Cracking using john and rockyou",
+      "Known Vulnerabilities using metasploit",
+      "Brute-Force using hydra"
+    ],
+    "Privilege Escalation": [
+      "Credential Dumping",
+      "Sudo Exploitation",
+      "File Analysis(searching for credentials)",
+      "System Configuration Analysis",
+      "Cronjob Analysis",
+      "User Access Exploitation",
+      "Other Techniques"
+    ],
+    "General Techniques": [
+      "Code Analysis",
+      "Exploration"
+    ]
+  }
+  
